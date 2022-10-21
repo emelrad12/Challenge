@@ -7,3 +7,5 @@ Comes with Google test, so check out if your idea can automatically run them. Cl
 The test configuration is called example.
 
 You should edit / replace the DefaultList.h for this challenge.
+
+![img.png](img.png)
